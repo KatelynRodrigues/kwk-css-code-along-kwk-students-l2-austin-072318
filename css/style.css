@@ -1,1 +1,24 @@
 /* add CSS class and element and selectors here */
+ body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+    .myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+    .turtle {
+      color: yellow;
+      font-family: Georgia;
+      background-color: red;
+      text-align: center;
+      border-style: solid;
+      border-color: purple;
+    }
+    
+    #katelyn {
+      color: green;
+    }
+  
